@@ -1,0 +1,18 @@
+[0m[[0minfo[0m] [0mscalastyle using config C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\scalastyle-config.xml[0m
+[0m[[0mdebug[0m] [0mStarting scalastyle[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\src\main\scala\edu\knoldus\ClientOps.scala[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\src\main\scala\edu\knoldus\ClientOps.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\src\main\scala\edu\knoldus\DBConnection.scala[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\src\main\scala\edu\knoldus\DBConnection.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\src\main\scala\edu\knoldus\DepartmentOps.scala[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\src\main\scala\edu\knoldus\DepartmentOps.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\src\main\scala\edu\knoldus\EmployeeOps.scala[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\src\main\scala\edu\knoldus\EmployeeOps.scala[0m
+[0m[[0mdebug[0m] [0mstart file C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\src\main\scala\edu\knoldus\ProjectOps.scala[0m
+[0m[[0mdebug[0m] [0mend file C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\src\main\scala\edu\knoldus\ProjectOps.scala[0m
+[0m[[0minfo[0m] [0mProcessed 5 file(s)[0m
+[0m[[0minfo[0m] [0mFound 0 errors[0m
+[0m[[0minfo[0m] [0mFound 0 warnings[0m
+[0m[[0minfo[0m] [0mFound 0 infos[0m
+[0m[[0minfo[0m] [0mFinished in 16 ms[0m
+[0m[[32msuccess[0m] [0mcreated output: C:\Users\ANUJ_SAXENA\Google Drive\Knoldus\Scala\assignmengt-05-anuj-ramandeep\target[0m
